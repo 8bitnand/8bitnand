@@ -15,11 +15,13 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 I’m a **Machine Learning Engineer** with 4+ years of experience across deep learning, NLP, data science, and MLOps.  
-- 🧠 I like building practical AI systems: model experiments, evaluation workflows, deployment pipelines, and production-ready ML services.  
-- 🛠️ My work sits between research and engineering, turning notebooks into reliable systems with Python, cloud tooling, containers, and CI/CD.  
+- 🔭 I’m a **Machine Learning Engineer at Zzazz**, working on ML pipelines and taking concepts/models into production.  
+- 🧠 I have 4+ years of experience across **deep learning, computer vision, NLP, audio, LLMs, and MLOps**.  
+- 🛠️ Previously at **Sony India Software Centre**, I worked on proprietary dataset pipelines, object detection/classification, internal code-generation LLMs, TTS/audio generation, and 3D-object generation with text input.  
+- 🚀 I like building practical AI systems: model experiments, fine-tuning workflows, evaluation loops, deployment pipelines, and production-ready ML services.  
+- 🧩 My work sits between research and engineering, turning notebooks into reliable systems with Python, cloud tooling, containers, orchestration, and CI/CD.  
 - 📝 I write explainers, tutorials, and experiments on [8bit blogs](https://8bitnand.github.io/).  
-- 💬 Let’s chat about **Machine Learning, MLOps, Transformers, Python, and C/C++**.  
+- 💬 Let’s chat about **Machine Learning, MLOps, Transformers, Agentic AI, Computer Vision, NLP, Audio, Python, and C/C++**.  
 - 📫 Reach me at **8bitnand@gmail.com**.  
 - ⚡ Fun fact: *I’m always curious about uncovering new things in tech and science.*  
 
@@ -28,7 +30,7 @@
 ### 🌐 Connect With Me  
 <p align="left">
   <a href="https://8bitnand.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-8bit%20blogs-0e75b6?style=flat-square&logo=githubpages&logoColor=white" alt="8bit blogs" /></a>
-  <a href="https://linkedin.com/in/nandeeshaivalli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Nandeesh%20Aivalli-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/nandishaivalli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Nandish%20Aivalli-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/8bit_nand" target="_blank"><img src="https://img.shields.io/badge/X-@8bit__nand-111111?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <a href="https://hashnode.com/@1bytenand" target="_blank"><img src="https://img.shields.io/badge/Hashnode-@1bytenand-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
   <a href="https://www.youtube.com/c/8bitnand" target="_blank"><img src="https://img.shields.io/badge/YouTube-8bitnand-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
