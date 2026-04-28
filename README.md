@@ -20,7 +20,6 @@
 - I like the messy middle: experiments, datasets, fine-tuning, evals, deployment, and making models actually usable.  
 - I write explainers, tutorials, and experiments on [8bit blogs](https://8bitnand.github.io/).  
 - Always up for talking about **AI agents, transformers, production ML, Python, C/C++, and weird model behavior**.  
-- Reach me at **8bitnand@gmail.com**.  
 
 ---
 
