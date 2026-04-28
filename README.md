@@ -15,9 +15,11 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 I work on **Data Science, ML, AI, and MLOps pipelines** to bring models from notebooks to production.  
+- 🔭 I’m a **Machine Learning Engineer** with 4+ years of experience across deep learning, NLP, data science, and MLOps.  
+- 🧠 I like building practical AI systems: model experiments, evaluation workflows, deployment pipelines, and production-ready ML services.  
+- 🛠️ My work sits between research and engineering, turning notebooks into reliable systems with Python, cloud tooling, containers, and CI/CD.  
 - 📝 I write explainers, tutorials, and experiments on [8bit blogs](https://8bitnand.github.io/).  
-- 💬 Let’s chat about **Machine Learning, MLOps, Python, and C/C++**.  
+- 💬 Let’s chat about **Machine Learning, MLOps, Transformers, Python, and C/C++**.  
 - 📫 Reach me at **8bitnand@gmail.com**.  
 - ⚡ Fun fact: *I’m always curious about uncovering new things in tech and science.*  
 
