@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me  
 - 🔭 I work on **Data Science, ML, AI, and MLOps pipelines** to bring models from notebooks to production.  
-- 📝 I share insights & tutorials on [Hashnode](https://hashnode.com/@1bytenand).  
+- 📝 I write explainers, tutorials, and experiments on [8bit blogs](https://8bitnand.github.io/).  
 - 💬 Let’s chat about **Machine Learning, MLOps, Python, and C/C++**.  
 - 📫 Reach me at **8bitnand@gmail.com**.  
 - ⚡ Fun fact: *I’m always curious about uncovering new things in tech and science.*  
@@ -25,6 +25,7 @@
 
 ### 🌐 Connect With Me  
 <p align="left">
+  <a href="https://8bitnand.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/blog-8bit%20blogs-0e75b6?style=flat&logo=githubpages&logoColor=white" alt="8bit blogs" /></a>
   <a href="https://twitter.com/8bit_nand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/nandeeshaivalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://hashnode.com/@1bytenand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" /></a>
@@ -56,4 +57,3 @@
 </p>
 
 ---
-
