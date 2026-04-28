@@ -15,15 +15,12 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 I’m a **Machine Learning Engineer at Zzazz**, working on ML pipelines and taking concepts/models into production.  
-- 🧠 I have 4+ years of experience across **deep learning, computer vision, NLP, audio, LLMs, and MLOps**.  
-- 🛠️ Previously at **Sony India Software Centre**, I worked on proprietary dataset pipelines, object detection/classification, internal code-generation LLMs, TTS/audio generation, and 3D-object generation with text input.  
-- 🚀 I like building practical AI systems: model experiments, fine-tuning workflows, evaluation loops, deployment pipelines, and production-ready ML services.  
-- 🧩 My work sits between research and engineering, turning notebooks into reliable systems with Python, cloud tooling, containers, orchestration, and CI/CD.  
-- 📝 I write explainers, tutorials, and experiments on [8bit blogs](https://8bitnand.github.io/).  
-- 💬 Let’s chat about **Machine Learning, MLOps, Transformers, Agentic AI, Computer Vision, NLP, Audio, Python, and C/C++**.  
-- 📫 Reach me at **8bitnand@gmail.com**.  
-- ⚡ Fun fact: *I’m always curious about uncovering new things in tech and science.*  
+- I build ML things, break them, fix them, and occasionally write about what happened.  
+- Mostly around **deep learning, LLMs, computer vision, audio, NLP, and MLOps**.  
+- I like the messy middle: experiments, datasets, fine-tuning, evals, deployment, and making models actually usable.  
+- I write explainers, tutorials, and experiments on [8bit blogs](https://8bitnand.github.io/).  
+- Always up for talking about **AI agents, transformers, production ML, Python, C/C++, and weird model behavior**.  
+- Reach me at **8bitnand@gmail.com**.  
 
 ---
 
